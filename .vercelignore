@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Testing
+coverage/
+
+# Development
+.next/dev/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Context
+context/
+plans/
+scripts/
+.claude/
+test-*.mjs
+shell-aliases.md
